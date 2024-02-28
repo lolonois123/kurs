@@ -1,0 +1,2 @@
+# kurs
+tea testnet
